@@ -1,0 +1,14 @@
+com\sap\billofmaterial\repository\BillOfMaterialRepository.class
+com\sap\billofmaterial\BillOfMaterialApplication.class
+com\sap\billofmaterial\exception\ResourceNotFoundException.class
+com\sap\billofmaterial\model\AuditModel.class
+com\sap\billofmaterial\model\GuidIdentifierGenerator.class
+com\sap\billofmaterial\controller\BillOfMaterialItemController.class
+com\sap\billofmaterial\controller\BillOfMaterialController.class
+com\sap\billofmaterial\model\BillOfMaterialItem.class
+com\sap\billofmaterial\ServletInitializer.class
+com\sap\billofmaterial\configuration\DatabaseConfiguration.class
+com\sap\billofmaterial\model\BillOfMaterial.class
+com\sap\billofmaterial\repository\BillOfMaterialItemRepository.class
+com\sap\billofmaterial\service\BillOfMaterialService.class
+com\sap\billofmaterial\service\BillOfMaterialItemService.class
