@@ -1,0 +1,6 @@
+applications:
+  - name: bill-of-material
+    path: target/BillOfMaterial-1.0-SNAPSHOT.war
+    memory: 1024M
+    services:
+      - hanaschemaasaservice
